@@ -22,11 +22,12 @@
 
 ### Misc.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_4" target="_blank">Air Traffic</a>
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_5" target="_blank">Palmer Penguins</a>
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_6" target="_blank">Tooth Growth</a>
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_7" target="_blank">SQL Book DB</a>
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_8" target="_blank">SQL Social Media DB</a>
+- <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_9" target="_blank">TV Shows</a>
 
 ---
 
