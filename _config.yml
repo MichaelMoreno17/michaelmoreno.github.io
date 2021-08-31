@@ -1,8 +1,6 @@
 title: Michael Moreno # your name (or website title) here
 logo: "/images/profilepic.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-
- 'Hi, my names Michael and I am a recent grad from CSU Sacramento with a BA in Economics.
+description: > 'Hi, my names Michael and I am a recent grad from CSU Sacramento with a BA in Economics.
  These EDA projects showcase my growth since I began in May 2021 to current date.
  You will find cleaning done in SQL and R files and the visuals were created 
  with R packages, Tabluea and Power BI.'
