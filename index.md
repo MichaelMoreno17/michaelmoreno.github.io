@@ -5,6 +5,7 @@
 ### R Projects
 
 [Amazon Bestsellers](/Projects/Project_1)
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_1">Project 1</a>
 <img src="images/Amazon BestSellers.png?raw=true"/>
 
 ---
