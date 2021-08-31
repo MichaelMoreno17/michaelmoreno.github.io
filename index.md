@@ -4,17 +4,17 @@
 
 #### R Projects
 
-[Project 1 Title](/Project%201)
+[Project 1 Title](/Projects/Project%201)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/Projects/Project%202)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 #### SQL Projects
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](Projects/Project%203)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
