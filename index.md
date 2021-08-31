@@ -8,13 +8,13 @@
 <img src="images/Amazon BestSellers.png?raw=true"/>
 
 ---
-[Attritions Rates](/Projects/Project_2)
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_2" target="_blank">Attrition Rates</a>
 <img src="images/Attrition Rate Graphs.png?raw=true"/>
 
 ### SQL Projects
 
 ---
-[Microsoft AdventureWorks DB](./Projects/Project_3)
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_3" target="_blank">Microsoft Adventureworks DB</a>
 <img src="images/Internet Sales.png?raw=true"/>
 <img src="images/Reseller Sales.png?raw=true"/>
 
