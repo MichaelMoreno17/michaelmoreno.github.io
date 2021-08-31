@@ -5,17 +5,17 @@
 #### R Projects
 
 [Project 1 Title](/Projects/Project%201)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Amazon BestSellers.png?raw=true"/>
 
 ---
 [Project 2 Title](/Projects/Project%202)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Attrition Rate Graphs.png?raw=true"/>
 
 #### SQL Projects
 
 ---
 [Project 3 Title](Projects/Project%203)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Internet Sales.png?raw=true"/>
 
 ---
 
