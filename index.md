@@ -4,17 +4,17 @@
 
 ### R Projects
 
-[Amazon Bestsellers](/Projects/Project%201)
+[Amazon Bestsellers](/Projects/Project_1)
 <img src="images/Amazon BestSellers.png?raw=true"/>
 
 ---
-[Attritions Rates](/Projects/Project%202)
+[Attritions Rates](/Projects/Project_2)
 <img src="images/Attrition Rate Graphs.png?raw=true"/>
 
 ### SQL Projects
 
 ---
-[Microsoft AdventureWorks DB](Projects/Project%203)
+[Microsoft AdventureWorks DB](./Projects/Project_3)
 <img src="images/Internet Sales.png?raw=true"/>
 <img src="images/Reseller Sales.png?raw=true"/>
 
