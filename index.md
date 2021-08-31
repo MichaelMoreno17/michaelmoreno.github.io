@@ -17,7 +17,6 @@
 [Microsoft AdventureWorks DB](Projects/Project%203)
 <img src="images/Internet Sales.png?raw=true"/>
 <img src="images/Reseller Sales.png?raw=true"/>
-<img src="images/Employee Statistics.png?raw=true"/>
 
 ---
 
