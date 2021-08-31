@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+#### R Projects
 
 [Project 1 Title](/Project%201)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -11,13 +11,15 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+#### SQL Projects
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+#### Misc.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
