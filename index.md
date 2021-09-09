@@ -4,9 +4,9 @@
 
 ### SQL Projects
 
-<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_3" target="_blank">Microsoft Adventureworks DB</a>
-<img src="images/Internet Sales.png?raw=true"/>
-<img src="images/Reseller Sales.png?raw=true"/>
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Covid%20Analysis" target="_blank">Covid Analysis</a>
+<img src="images/Covid_D1.png?raw=true"/>
+<img src="images/Covid_D2.png?raw=true"/>
 
 
 ---
