@@ -4,7 +4,7 @@
 
 ### SQL Projects
 
-<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_4" target="_blank">cyclistdata_cleaning_insights</a>
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_4" target="_blank">Cyclitics EDA</a>
 <img src="images/BI_layout.png?raw=true"/>
 <img src="images/Mobile_layout.png?raw=true"/>
 
