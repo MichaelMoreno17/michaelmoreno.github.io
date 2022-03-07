@@ -4,6 +4,12 @@
 
 ### SQL Projects
 
+<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_4" target="_blank">cyclistdata_cleaning_insights</a>
+<img src="images/BI_layout.png?raw=true"/>
+<img src="images/Mobile_layout.png?raw=true"/>
+
+---
+
 <a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Covid%20Analysis" target="_blank">Covid Analysis</a>
 <img src="images/Covid_D1.png?raw=true"/>
 <img src="images/Covid_D2.png?raw=true"/>
@@ -16,9 +22,6 @@
 
 ---
 
-<a href="https://github.com/MichaelMoreno17/michaelmoreno17.github.io/tree/master/Projects/Project_4" target="_blank">cyclistdata_cleaning_insights</a>
-<img src="images/BI_layout.png?raw=true"/>
-<img src="images/Mobile_layout.png?raw=true"/>
 
 
 ### R Projects
